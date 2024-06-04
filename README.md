@@ -4,5 +4,3 @@
 - 🌱 Currently, diving into the crazy and fun world of the C language has been a great interest
 - 😄 Pronouns: she/her
 
-### Links
-
